@@ -4,7 +4,6 @@ using namespace std;
 
 /**
  * Programer: Pravesh Jung Karki
- * CSC 240 Programming05 Phase IA
  * Description: A program to encode and decode messages using a shift by N cypher.
  * This program will ask the user if they want to encode or decode.
  * Then it will ask them to enter the text (either the original plane text, or the encoded text).
