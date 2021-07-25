@@ -1,4 +1,4 @@
-# Encode-and-Decode-messages
+# Encryption System and prime number finders
 
 /**
  * Programer: Pravesh Jung Karki
